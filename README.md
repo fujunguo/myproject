@@ -1,3 +1,3 @@
 # myproject
-##A Complete Beginner's Guide to Django"
-##Django version 1.11.4
+## A Complete Beginner's Guide to Django"
+## Django version 1.11.4
